@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#projeto {
+  display: flex;
+  width: 875px;
+  height: 498px;
+  align-items: center;
+  gap: 13px;
+}
+
+.estilo {
+  border-radius: 9.603px;
+  background: #d9cdf7;
+}
+
+#projeto .imagem-poltrona {
+  width: 449px;
+  height: 253px;
+}
+
+.div-dimensao {
+  position: relative;
+}
+
+.vetor {
+  width: 33px;
+  height: 23px;
+  position: absolute;
+  z-index: 1;
+  margin-top: 8px;
+  right: 50px;
+}
+
+.layout {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 12px;
+  align-self: stretch;
+}
+
+.layout span {
+  color: #271a45;
+  font-family: Lato;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 100%; /* 10px */
+}
+
+.layout h2 {
+  color: #271a45;
+  font-family: "Crimson" Pro;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100%;
+}
+
+.layout p {
+  color: #271a45;
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%; /* 16px */
+}
+.layout button {
+  width: 148px;
+  height: 32px;
+  border-radius: 999px;
+  border: 0.5px solid #271a45;
+  background: #d9cdf7;
+}
