@@ -36,7 +36,7 @@ Uma página para demostração de um shopping de móveis. O sofá foi escolhido 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/jnyPaNDeaZf5hFVMk4oO2D/DevLinks-•-Projeto-Discover-(Community)?node-id=1437%3A191&mode=dev>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/phJ2NXXdk3VFUbi3eRvURY/Card-de-Produto-•-Desafio-02-(Community)?node-id=601%3A145&mode=dev>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
